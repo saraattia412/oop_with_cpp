@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586813578 source:c:\users\computec\desktop\study\c++\review arrays\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+

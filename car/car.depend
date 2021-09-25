@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\computec\desktop\study\oop with c++\car\main.cpp
+	<iostream>
+
+1586206767 source:c:\users\computec\desktop\study\oop with c++\car\src\car.cpp
+	"car.h"
+
+1586206767 c:\users\computec\desktop\study\oop with c++\car\include\car.h
+	<string>
+
